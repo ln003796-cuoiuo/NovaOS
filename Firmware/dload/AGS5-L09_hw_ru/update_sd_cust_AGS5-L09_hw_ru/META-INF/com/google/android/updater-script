@@ -1,0 +1,1 @@
+assert(compress_sd_update_from_zip("UPDATE.APP"));

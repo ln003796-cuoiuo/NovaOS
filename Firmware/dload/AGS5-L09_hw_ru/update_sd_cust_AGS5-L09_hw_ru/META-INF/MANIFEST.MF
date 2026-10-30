@@ -1,0 +1,36 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA-256-Digest: 4H4qkzzAcnhCkmFSugZANbx1C2X5DdQYqPeAMN2ewJw=
+
+Name: PTABLE.APP
+SHA-256-Digest: cPXX1KlN3gatThPKB9nR+2kdX1QdtPwxxrnxFdu8qV8=
+
+Name: hotakey_sign_version.tag
+SHA-256-Digest: ekwEgPvF2ng9dHltyg0JD8vQZ9to+hz2pUQrhsg84+I=
+
+Name: META-INF/com/android/otacert
+SHA-256-Digest: 2ONtVLcQ7jAwst6hpnNudjy8HlrE8UfKJlIkVbfzA1M=
+
+Name: META-INF/com/google/android/update-binary
+SHA-256-Digest: AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=
+
+Name: META-INF/com/google/android/hash_signed_data
+SHA-256-Digest: RJ2MyjyvrkV8LM7OP0d1M9sYNeKMGG5EhlLTMCyP7jk=
+
+Name: SD_update.tag
+SHA-256-Digest: A5nfX37D+hRAnK4zjAoGrXebKVN8cv3mF6XPoJqruiw=
+
+Name: PTABLE_CUST.mbn
+SHA-256-Digest: XYZOPYwE3f/4I0h3sUNRMOFi1BHKjmxlkLxrNenPZf8=
+
+Name: SOFTWARE_VER_LIST.mbn
+SHA-256-Digest: KgVLK0Ul+mqnGgiRWnE8f2XJHs/uRvQ2Yvqk3/3iQsY=
+
+Name: full_mainpkg.tag
+SHA-256-Digest: ffkTJX/34Re7Da0je9mMZaEebFDHcPiNsNLTiIeIuzc=
+
+Name: UPT_VER.tag
+SHA-256-Digest: 4hwQ4prmHCoENfhsYt5/APRdz08FbdTmoM13oIvXtLk=
+
